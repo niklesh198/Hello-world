@@ -1,2 +1,2 @@
 # Hello-world
-my sample repository
+This is my first commit.
